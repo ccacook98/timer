@@ -1,0 +1,5 @@
+This is TIMER, a demonstration for the Lighthouse Labs Web Flex program
+written in JavaScript. It accepts a series of delay intervals as arguments
+and rings the system bell at the specified times.
+Usage: node timer.js [delay] [delay]...
+All delay values are specified in milliseconds.
